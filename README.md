@@ -25,6 +25,6 @@ update & upgrade
 
 install python
 
-cd DOSZ.py
+cd DOSZ
 
 python DOSZ.py
